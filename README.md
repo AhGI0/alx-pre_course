@@ -1,1 +1,3 @@
-My first readme
+new one  >README.md
+
+echo new one 
